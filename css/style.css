@@ -37,6 +37,10 @@ body {
     height: 85px;
 }
 
+.logo:hover {
+    animation: moveInRight 2s ease-out;
+}
+
 .text-box {
     position: absolute;
     top: 38%;
