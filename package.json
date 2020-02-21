@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/yasmineezequiel/advanced_CSS#readme",
   "dependencies": {
-    "sass": "^1.25.0"
+    "node-sass": "^4.13.1"
   }
 }
